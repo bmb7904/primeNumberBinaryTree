@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=intbinarytree
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/intbinarytree
+CND_ARTIFACT_NAME_Debug=binarytreeofprimes
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/binarytreeofprimes
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=intbinarytree.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/intbinarytree.tar
+CND_PACKAGE_NAME_Debug=binarytreeofprimes.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/binarytreeofprimes.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=intbinarytree
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/intbinarytree
+CND_ARTIFACT_NAME_Release=binarytreeofprimes
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/binarytreeofprimes
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=intbinarytree.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/intbinarytree.tar
+CND_PACKAGE_NAME_Release=binarytreeofprimes.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/binarytreeofprimes.tar
 #
 # include compiler specific variables
 #

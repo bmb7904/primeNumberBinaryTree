@@ -1,6 +1,6 @@
 /*
  * Author and Programmer: Brett Bernardi
- * November 11, 2019
+ * December 8, 2019
  */
 
 
@@ -84,6 +84,8 @@ int main()
         }
                 
     }
+    
+    cout << "Programmer: Brett Bernardi" << endl;
     
     return 0;
 }
